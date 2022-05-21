@@ -20,5 +20,7 @@ and then run this command in your terminal
 ```
  python src/main.py
 ```
+after run this command, you will input your inputs in the terminal as n and a_1,a_2,...,a_n. 
+after you inputing the inputs, you wanna get the output in your terminal.
 
 ## Copyright by Muhammad Gilang Ramadhan
