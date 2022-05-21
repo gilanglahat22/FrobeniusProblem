@@ -7,14 +7,14 @@ import time
 
 print("Frobenius Problem Solver")
 print()
-n = int(input("Masukkan n : "))
+n = int(input("Please input n : "))
 print()
 A = [0 for i in range(n)]
 for i in range(n):
-    A[i] = int(input("Masukkan a_" + str(i+1)+" : "))
+    A[i] = int(input("input a_" + str(i+1)+" : "))
 print()
 start = time.time()
-print("Solusi dari "+str(A)+" is", GreedyDijkstra(A))
+print("Solution of "+str(A)+" is", GreedyDijkstra(A))
 end = time.time()
 print()
 print("Execution time : ",(end-start))
