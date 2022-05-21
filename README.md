@@ -11,16 +11,16 @@ To Solve this problem we can use Dijkstra Algorithm which transform the problem 
 
 ## How to use This Program
 
-clone this repository 
+1. Clone this repository 
 ```
   git clone https://github.com/gilanglahat22/FrobeniusProblem.git
 ```
 
-and then run this command in your terminal
+2. And then run this command in your terminal
 ```
  python src/main.py
 ```
-after run this command, you will input your inputs in the terminal as n and a_1,a_2,...,a_n. 
-after you inputing the inputs, you wanna get the output in your terminal.
+3. After run this command, you will input your inputs in the terminal as n and a_1,a_2,...,a_n. 
+4. After you inputing the inputs, you wanna get the output in your terminal.
 
 ## Copyright by Muhammad Gilang Ramadhan
